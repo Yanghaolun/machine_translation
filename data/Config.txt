@@ -1,0 +1,8 @@
+Transformer:
+sample_size = None
+freq_threshold = 0
+seq_length = 30
+num_encoders, num_decoders = 2, 2
+hidden_size = 2048
+dropout = 0.3
+num_heads = 4
